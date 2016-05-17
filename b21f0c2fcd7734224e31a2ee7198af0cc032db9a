@@ -45,6 +45,23 @@
       "revId": "b21f0c2fcd7734224e31a2ee7198af0cc032db9a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_3ad42920",
+        "filename": "src/org/cyanogenmod/screencast/MainActivity.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2016-05-17T20:29:51Z",
+      "side": 1,
+      "message": "Can we pass the AUDIO state when starting the service instead of storing it in a shared preference ?\n\nCan just pass it along via putExtra()",
+      "revId": "b21f0c2fcd7734224e31a2ee7198af0cc032db9a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
