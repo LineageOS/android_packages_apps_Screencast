@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "5faad753_7ae70142",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 10094
+      },
+      "writtenOn": "2016-05-17T19:49:32Z",
+      "side": 1,
+      "message": "IMO, these are clearer with something like:\n\n\u0027Record audio from microphone\u0027\n\u0027To record audio, tap here to enable the microphone permission for this app\u0027\n\nInterested in what others think.",
+      "range": {
+        "startLine": 30,
+        "startChar": 30,
+        "endLine": 30,
+        "endChar": 59
+      },
+      "revId": "b21f0c2fcd7734224e31a2ee7198af0cc032db9a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5faad753_f7e78ce3",
         "filename": "src/org/cyanogenmod/screencast/MainActivity.java",
         "patchSetId": 4
