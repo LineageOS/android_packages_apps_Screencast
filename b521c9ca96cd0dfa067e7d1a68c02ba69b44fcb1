@@ -22,6 +22,30 @@
       "revId": "b521c9ca96cd0dfa067e7d1a68c02ba69b44fcb1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_d779302f",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 13956
+      },
+      "writtenOn": "2016-05-17T19:11:34Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5faad753_b7959442",
+      "range": {
+        "startLine": 31,
+        "startChar": 77,
+        "endLine": 31,
+        "endChar": 81
+      },
+      "revId": "b521c9ca96cd0dfa067e7d1a68c02ba69b44fcb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
