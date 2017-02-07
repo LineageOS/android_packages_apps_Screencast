@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Enregistrador de pantalla</string>
+  <string name="app_name">Gravadora de pantalla</string>
   <string name="share">Comparteix</string>
   <string name="stop">Para</string>
   <string name="insufficient_storage">Emmagatzematge insuficient</string>
