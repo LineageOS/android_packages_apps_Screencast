@@ -15,4 +15,19 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+  <string name="app_name">Regjistruesi i Ekranit</string>
+  <string name="share">Ndaj</string>
+  <string name="stop">Ndalo</string>
+  <string name="insufficient_storage">Memorie e pamjaftueshme</string>
+  <string name="show_touches">Shfaq prekjet</string>
+  <string name="hide_touches">Fshih prekjet</string>
+  <string name="recording">Duke regjistruar\u2026</string>
+  <string name="recording_ready_to_share">Regjistrimi gati për t\'u ndarë</string>
+  <string name="video_length">Gjatësia e videos: %s</string>
+  <string name="not_enough_storage">Nuk ka hapësirë të mjaftueshme në dispozicion</string>
+  <string name="start_description">Shtyp për të filluar regjistrimin e ekranit të pajisjes</string>
+  <string name="stop_description">Shtyp për të ndaluar regjistrimin</string>
+  <string name="with_audio">Përfshi audion nga mikrofoni</string>
+  <string name="no_audio_setting_warning">Për të përfshirë audio, <b> shtyp këtu që të shkosh te Parametrat dhe të aktivizosh lejen e mikrofonit për këtë aplikacion</b></string>
+</resources>

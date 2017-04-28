@@ -15,4 +15,19 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+  <string name="app_name">Screen Recorder</string>
+  <string name="share">Share</string>
+  <string name="stop">Stop</string>
+  <string name="insufficient_storage">Insufficient storage</string>
+  <string name="show_touches">Show touches</string>
+  <string name="hide_touches">Hide touches</string>
+  <string name="recording">Recording\u2026</string>
+  <string name="recording_ready_to_share">Recording ready to share</string>
+  <string name="video_length">Video length: %s</string>
+  <string name="not_enough_storage">Not enough storage available</string>
+  <string name="start_description">Tap to start recording the screen of your device</string>
+  <string name="stop_description">Tap to stop recording</string>
+  <string name="with_audio">Include audio from microphone</string>
+  <string name="no_audio_setting_warning">To include audio, <b>tap here to go to Settings and enable the microphone permission for this app</b></string>
+</resources>
