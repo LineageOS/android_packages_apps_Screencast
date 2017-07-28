@@ -26,7 +26,7 @@
   <string name="recording_ready_to_share">Kayıt paylaşıma hazır</string>
   <string name="video_length">Video uzunluğu: %s</string>
   <string name="not_enough_storage">Yeterli kullanılabilir depolama alanı yok</string>
-  <string name="start_description">Ekranınızı kaydetmek için dokunun</string>
+  <string name="start_description">Cihazınızın ekranını kaydetmeye başlamak için dokunun</string>
   <string name="stop_description">Kaydı durdurmak için dokunun</string>
   <string name="with_audio">Mikrofondan gelen sesi içer</string>
   <string name="no_audio_setting_warning">Sesi dahil etmek için <b>buraya dokunarak ayarlara gidin ve bu uygulama için mikrofon izinlerini etkinleştirin</b></string>

@@ -29,5 +29,5 @@
   <string name="start_description">Pulsa para iniciar la grabación de pantalla del dispositivo</string>
   <string name="stop_description">Pulsa para detener la grabación</string>
   <string name="with_audio">Incluir el audio del micrófono</string>
-  <string name="no_audio_setting_warning">Para incluir el audio, <b>pulsa aquí para ir a los Ajustes y activar el permiso del micrófono para esta aplicación</b></string>
+  <string name="no_audio_setting_warning">Para incluir el audio, <b>pulsa aquí para ir a los ajustes y activar el permiso del micrófono para esta aplicación</b></string>
 </resources>
