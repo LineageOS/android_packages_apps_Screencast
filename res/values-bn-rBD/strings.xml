@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources>
-  <string name="share">শেয়ার</string>
-  <string name="stop">থামুন</string>
-  <string name="insufficient_storage">অপর্যাপ্ত যায়গা</string>
-  <string name="show_touches">স্পর্শ গুলি প্রদর্শন করুন</string>
-  <string name="recording">রেকর্ডিং\u2026</string>
-  <string name="recording_ready_to_share">শেয়ার করার জন্য রেকর্ডিং প্রস্তুত</string>
-  <string name="video_length">ভিডিও দৈর্ঘ্যঃ %s</string>
-  <string name="not_enough_storage">যথেষ্ট যায়গা উপলভ্য নয়</string>
+    <string name="share">শেয়ার</string>
+    <string name="stop">থামুন</string>
+    <string name="insufficient_storage">অপর্যাপ্ত যায়গা</string>
+    <string name="show_touches">স্পর্শ গুলি প্রদর্শন করুন</string>
+    <string name="recording">রেকর্ডিং\u2026</string>
+    <string name="recording_ready_to_share">শেয়ার করার জন্য রেকর্ডিং প্রস্তুত</string>
+    <string name="video_length">ভিডিও দৈর্ঘ্যঃ %s</string>
+    <string name="not_enough_storage">যথেষ্ট যায়গা উপলভ্য নয়</string>
 </resources>

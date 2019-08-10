@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources>
-  <string name="share">බෙදාහදාගන්න</string>
-  <string name="stop">නවත්වන්න</string>
-  <string name="insufficient_storage">ආචයනය ප්‍රමාණවත් නැත</string>
-  <string name="show_touches">ස්පර්ශයන් පෙන්වන්න</string>
-  <string name="recording">රෙකෝඩනය කරමින්\u2026</string>
-  <string name="recording_ready_to_share">රෙකෝඩනය බෙදාහදාගැනීමට සූදානම්ය</string>
-  <string name="video_length">වීඩියෝවේ දිග: %s</string>
-  <string name="not_enough_storage">ආචයනය ප්‍රමාණවත් නැත</string>
+    <string name="share">බෙදාහදාගන්න</string>
+    <string name="stop">නවත්වන්න</string>
+    <string name="insufficient_storage">ආචයනය ප්‍රමාණවත් නැත</string>
+    <string name="show_touches">ස්පර්ශයන් පෙන්වන්න</string>
+    <string name="recording">රෙකෝඩනය කරමින්\u2026</string>
+    <string name="recording_ready_to_share">රෙකෝඩනය බෙදාහදාගැනීමට සූදානම්ය</string>
+    <string name="video_length">වීඩියෝවේ දිග: %s</string>
+    <string name="not_enough_storage">ආචයනය ප්‍රමාණවත් නැත</string>
 </resources>

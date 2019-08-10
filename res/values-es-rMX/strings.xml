@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources>
-  <string name="share">Compartir</string>
-  <string name="stop">Detener</string>
-  <string name="insufficient_storage">Almacenamiento insuficiente</string>
-  <string name="show_touches">Mostrar toques</string>
-  <string name="recording">Grabando\u2026</string>
-  <string name="recording_ready_to_share">Grabación lista para ser compartida</string>
-  <string name="video_length">Duración del vídeo: %s</string>
-  <string name="not_enough_storage">No hay suficiente almacenamiento disponible</string>
+    <string name="share">Compartir</string>
+    <string name="stop">Detener</string>
+    <string name="insufficient_storage">Almacenamiento insuficiente</string>
+    <string name="show_touches">Mostrar toques</string>
+    <string name="recording">Grabando\u2026</string>
+    <string name="recording_ready_to_share">Grabación lista para ser compartida</string>
+    <string name="video_length">Duración del vídeo: %s</string>
+    <string name="not_enough_storage">No hay suficiente almacenamiento disponible</string>
 </resources>

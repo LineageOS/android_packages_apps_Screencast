@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources>
-  <string name="share">Jaga</string>
-  <string name="stop">Stopp</string>
-  <string name="insufficient_storage">Pole piisavalt mälu</string>
-  <string name="show_touches">Näita puudutusi</string>
-  <string name="recording">Salvestan\u2026</string>
-  <string name="recording_ready_to_share">Salvestus valmis jagamiseks</string>
-  <string name="video_length">Video pikkus: %s</string>
-  <string name="not_enough_storage">Pole piisavalt ruumi</string>
+    <string name="share">Jaga</string>
+    <string name="stop">Stopp</string>
+    <string name="insufficient_storage">Pole piisavalt mälu</string>
+    <string name="show_touches">Näita puudutusi</string>
+    <string name="recording">Salvestan\u2026</string>
+    <string name="recording_ready_to_share">Salvestus valmis jagamiseks</string>
+    <string name="video_length">Video pikkus: %s</string>
+    <string name="not_enough_storage">Pole piisavalt ruumi</string>
 </resources>

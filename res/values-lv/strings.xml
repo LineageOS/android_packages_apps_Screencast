@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources>
-  <string name="share">Kopīgot</string>
-  <string name="stop">Apturēt</string>
-  <string name="insufficient_storage">Krātuvē nepietiek vietas</string>
-  <string name="show_touches">Rādīt pieskārienus</string>
-  <string name="recording">Raksta\u2026</string>
-  <string name="recording_ready_to_share">Ieraksta gatavs kopīgošanai</string>
-  <string name="video_length">Video garums: %s</string>
-  <string name="not_enough_storage">Nav pietiekams krātuvju apjoms</string>
+    <string name="share">Kopīgot</string>
+    <string name="stop">Apturēt</string>
+    <string name="insufficient_storage">Krātuvē nepietiek vietas</string>
+    <string name="show_touches">Rādīt pieskārienus</string>
+    <string name="recording">Raksta\u2026</string>
+    <string name="recording_ready_to_share">Ieraksta gatavs kopīgošanai</string>
+    <string name="video_length">Video garums: %s</string>
+    <string name="not_enough_storage">Nav pietiekams krātuvju apjoms</string>
 </resources>

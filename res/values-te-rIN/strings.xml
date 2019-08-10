@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources>
-  <string name="share">భాగస్వామ్యం చేయి</string>
-  <string name="stop">ఆపివేయండి</string>
-  <string name="insufficient_storage">తగినంత నిల్వ లేదు</string>
-  <string name="show_touches">స్పర్శ ప్రదేశాలను చూపు</string>
-  <string name="recording">రికార్డింగ్\u2026</string>
-  <string name="recording_ready_to_share">రికార్డింగ్ పంచుకోబడడానికి సిద్ధంగా ఉంది</string>
-  <string name="video_length">వీడియో పొడవు: %s</string>
-  <string name="not_enough_storage">తగినంత నిల్వ అందుబాటులో లేదు</string>
+    <string name="share">భాగస్వామ్యం చేయి</string>
+    <string name="stop">ఆపివేయండి</string>
+    <string name="insufficient_storage">తగినంత నిల్వ లేదు</string>
+    <string name="show_touches">స్పర్శ ప్రదేశాలను చూపు</string>
+    <string name="recording">రికార్డింగ్\u2026</string>
+    <string name="recording_ready_to_share">రికార్డింగ్ పంచుకోబడడానికి సిద్ధంగా ఉంది</string>
+    <string name="video_length">వీడియో పొడవు: %s</string>
+    <string name="not_enough_storage">తగినంత నిల్వ అందుబాటులో లేదు</string>
 </resources>

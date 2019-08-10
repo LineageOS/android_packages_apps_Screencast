@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources>
-  <string name="share">பகிர்</string>
-  <string name="stop">நிறுத்து</string>
-  <string name="insufficient_storage">சேமிப்பக பற்றாக்குறை</string>
-  <string name="show_touches">தொடுதலைக் காட்டு</string>
-  <string name="recording">பதிவுசெய்கிறது\u2026</string>
-  <string name="recording_ready_to_share">பதிவுசெய்தல் பகிர தயார்</string>
-  <string name="video_length">வீடியோ நீளம்: %s</string>
-  <string name="not_enough_storage">போதிய சேமிப்பகம் கிடைக்கவில்லை</string>
+    <string name="share">பகிர்</string>
+    <string name="stop">நிறுத்து</string>
+    <string name="insufficient_storage">சேமிப்பக பற்றாக்குறை</string>
+    <string name="show_touches">தொடுதலைக் காட்டு</string>
+    <string name="recording">பதிவுசெய்கிறது\u2026</string>
+    <string name="recording_ready_to_share">பதிவுசெய்தல் பகிர தயார்</string>
+    <string name="video_length">வீடியோ நீளம்: %s</string>
+    <string name="not_enough_storage">போதிய சேமிப்பகம் கிடைக்கவில்லை</string>
 </resources>

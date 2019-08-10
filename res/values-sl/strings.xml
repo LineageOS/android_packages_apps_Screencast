@@ -16,18 +16,18 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Snemalnik zaslona</string>
-  <string name="share">Deli</string>
-  <string name="stop">Ustavi</string>
-  <string name="insufficient_storage">Nezadostna velikost pomnilniške naprave</string>
-  <string name="show_touches">Prikaži dotike</string>
-  <string name="hide_touches">Skrij dotike</string>
-  <string name="recording">Snemanje \u2026</string>
-  <string name="recording_ready_to_share">Posnetek pripravljen za deljenje</string>
-  <string name="video_length">Dolžina videoposnetka: %s</string>
-  <string name="not_enough_storage">Ni na voljo dovolj prostora</string>
-  <string name="start_description">Tapnite za začetek snemanja zaslona vaše naprave</string>
-  <string name="stop_description">Tapnite za prekinitev snemanja</string>
-  <string name="with_audio">Vključi zvok iz mikrofona</string>
-  <string name="no_audio_setting_warning">Za vključitev zvoka <b>tapnite tukaj, da se pomaknete v Nastavitve in za to aplikacijo omogočite dovoljenje za mikrofon</b></string>
+    <string name="app_name">Snemalnik zaslona</string>
+    <string name="share">Deli</string>
+    <string name="stop">Ustavi</string>
+    <string name="insufficient_storage">Nezadostna velikost pomnilniške naprave</string>
+    <string name="show_touches">Prikaži dotike</string>
+    <string name="hide_touches">Skrij dotike</string>
+    <string name="recording">Snemanje \u2026</string>
+    <string name="recording_ready_to_share">Posnetek pripravljen za deljenje</string>
+    <string name="video_length">Dolžina videoposnetka: %s</string>
+    <string name="not_enough_storage">Ni na voljo dovolj prostora</string>
+    <string name="start_description">Tapnite za začetek snemanja zaslona vaše naprave</string>
+    <string name="stop_description">Tapnite za prekinitev snemanja</string>
+    <string name="with_audio">Vključi zvok iz mikrofona</string>
+    <string name="no_audio_setting_warning">Za vključitev zvoka <b>tapnite tukaj, da se pomaknete v Nastavitve in za to aplikacijo omogočite dovoljenje za mikrofon</b></string>
 </resources>

@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources>
-  <string name="share">بڵاوکردنەوە</string>
-  <string name="stop">وەستاندن</string>
-  <string name="insufficient_storage">یادگە کەمە</string>
-  <string name="show_touches">پیشاندانی دەستلێدان</string>
-  <string name="recording">تۆمارکردنی\u2026</string>
-  <string name="recording_ready_to_share">تۆمارکراو ئامادەیە بۆ ناردن</string>
-  <string name="video_length">ماوەی ڤیدیۆ: %s</string>
-  <string name="not_enough_storage">شوێنی پێویستی یادگە لەبەردەستدا نیە</string>
+    <string name="share">بڵاوکردنەوە</string>
+    <string name="stop">وەستاندن</string>
+    <string name="insufficient_storage">یادگە کەمە</string>
+    <string name="show_touches">پیشاندانی دەستلێدان</string>
+    <string name="recording">تۆمارکردنی\u2026</string>
+    <string name="recording_ready_to_share">تۆمارکراو ئامادەیە بۆ ناردن</string>
+    <string name="video_length">ماوەی ڤیدیۆ: %s</string>
+    <string name="not_enough_storage">شوێنی پێویستی یادگە لەبەردەستدا نیە</string>
 </resources>

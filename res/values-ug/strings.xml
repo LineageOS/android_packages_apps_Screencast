@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources>
-  <string name="share">ھەمبەھىر</string>
-  <string name="stop">توختا</string>
-  <string name="insufficient_storage">ساقلاش بوشلۇقى يېتىشمەيدۇ</string>
-  <string name="show_touches">چېكىش مەشغۇلاتىنى كۆرسەت</string>
-  <string name="recording">خاتىرىلەۋاتىدۇ\u2026</string>
-  <string name="recording_ready_to_share">خاتىرىلىگەن مەزمۇن ھەمبەھىرلەشكە تەييار</string>
-  <string name="video_length">سىن ئۇزۇنلۇقى: %s</string>
-  <string name="not_enough_storage">ئىشلەتكىلى بولىدىغان بوشلۇق يېتىشمەيدۇ</string>
+    <string name="share">ھەمبەھىر</string>
+    <string name="stop">توختا</string>
+    <string name="insufficient_storage">ساقلاش بوشلۇقى يېتىشمەيدۇ</string>
+    <string name="show_touches">چېكىش مەشغۇلاتىنى كۆرسەت</string>
+    <string name="recording">خاتىرىلەۋاتىدۇ\u2026</string>
+    <string name="recording_ready_to_share">خاتىرىلىگەن مەزمۇن ھەمبەھىرلەشكە تەييار</string>
+    <string name="video_length">سىن ئۇزۇنلۇقى: %s</string>
+    <string name="not_enough_storage">ئىشلەتكىلى بولىدىغان بوشلۇق يېتىشمەيدۇ</string>
 </resources>

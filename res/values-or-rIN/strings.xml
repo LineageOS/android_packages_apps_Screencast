@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources>
-  <string name="share">ଅଂଶୀଦାର କରନ୍ତୁ</string>
-  <string name="stop">ସ୍ଥଗିତ</string>
-  <string name="insufficient_storage">ଯଥେଷ୍ଟ ଷ୍ଟୋରେଜ୍‍ ନାହିଁ</string>
-  <string name="show_touches">ସ୍ପର୍ଷଗୁଡିକ ଦେଖାନ୍ତୁ</string>
-  <string name="recording">ରେକର୍ଡ କରାଯାଉଛି\u2026</string>
-  <string name="recording_ready_to_share">ରେକର୍ଡିଂ ଅଂଶୀଦାର କରିବା ପାଇଁ ପ୍ରସ୍ତୁତ ଅଛି</string>
-  <string name="video_length">ଭିଡିଓ ଦୈର୍ଘ୍ୟ: %s</string>
-  <string name="not_enough_storage">ଯଥେଷ୍ଟ ଷ୍ଟୋରେଜ୍‍ ଉପଲବ୍ଧ ନାହିଁ</string>
+    <string name="share">ଅଂଶୀଦାର କରନ୍ତୁ</string>
+    <string name="stop">ସ୍ଥଗିତ</string>
+    <string name="insufficient_storage">ଯଥେଷ୍ଟ ଷ୍ଟୋରେଜ୍‍ ନାହିଁ</string>
+    <string name="show_touches">ସ୍ପର୍ଷଗୁଡିକ ଦେଖାନ୍ତୁ</string>
+    <string name="recording">ରେକର୍ଡ କରାଯାଉଛି\u2026</string>
+    <string name="recording_ready_to_share">ରେକର୍ଡିଂ ଅଂଶୀଦାର କରିବା ପାଇଁ ପ୍ରସ୍ତୁତ ଅଛି</string>
+    <string name="video_length">ଭିଡିଓ ଦୈର୍ଘ୍ୟ: %s</string>
+    <string name="not_enough_storage">ଯଥେଷ୍ଟ ଷ୍ଟୋରେଜ୍‍ ଉପଲବ୍ଧ ନାହିଁ</string>
 </resources>

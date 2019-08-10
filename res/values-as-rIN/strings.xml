@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources>
-  <string name="share">শ্বেয়াৰ</string>
-  <string name="stop">ষ্টপ</string>
-  <string name="insufficient_storage">অপৰ্যাপ্ত ষ্ট\'ৰেজ</string>
-  <string name="show_touches">স্পৰ্শসমূহ প্ৰদৰ্শন কৰক</string>
-  <string name="recording">ৰেকৰ্ডিং/u2026</string>
-  <string name="recording_ready_to_share">ৰেকৰ্ডিং ভাগ-বতৰা কৰিবলৈ সাজু হৈ আছে</string>
-  <string name="video_length">ভিডিঅ\' দৈৰ্ঘ: %s</string>
-  <string name="not_enough_storage">পৰ্যাপ্ত ষ্ট\'ৰেজ উপলব্ধ নহয়</string>
+    <string name="share">শ্বেয়াৰ</string>
+    <string name="stop">ষ্টপ</string>
+    <string name="insufficient_storage">অপৰ্যাপ্ত ষ্ট\'ৰেজ</string>
+    <string name="show_touches">স্পৰ্শসমূহ প্ৰদৰ্শন কৰক</string>
+    <string name="recording">ৰেকৰ্ডিং/u2026</string>
+    <string name="recording_ready_to_share">ৰেকৰ্ডিং ভাগ-বতৰা কৰিবলৈ সাজু হৈ আছে</string>
+    <string name="video_length">ভিডিঅ\' দৈৰ্ঘ: %s</string>
+    <string name="not_enough_storage">পৰ্যাপ্ত ষ্ট\'ৰেজ উপলব্ধ নহয়</string>
 </resources>

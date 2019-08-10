@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources>
-  <string name="share">साझा करें</string>
-  <string name="stop">रुकें</string>
-  <string name="insufficient_storage">अपर्याप्त जगह</string>
-  <string name="show_touches">स्पर्शों को दिखाएँ</string>
-  <string name="recording">रिकॉर्ड कर रहे हैं\u2026</string>
-  <string name="recording_ready_to_share">रिकॉर्डिंग को साझा करने के लिए तैयार</string>
-  <string name="video_length">वीडियो की लंबाई: %s</string>
-  <string name="not_enough_storage">पर्याप्त जगह नहीं है</string>
+    <string name="share">साझा करें</string>
+    <string name="stop">रुकें</string>
+    <string name="insufficient_storage">अपर्याप्त जगह</string>
+    <string name="show_touches">स्पर्शों को दिखाएँ</string>
+    <string name="recording">रिकॉर्ड कर रहे हैं\u2026</string>
+    <string name="recording_ready_to_share">रिकॉर्डिंग को साझा करने के लिए तैयार</string>
+    <string name="video_length">वीडियो की लंबाई: %s</string>
+    <string name="not_enough_storage">पर्याप्त जगह नहीं है</string>
 </resources>

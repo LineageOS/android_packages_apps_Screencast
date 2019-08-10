@@ -15,4 +15,19 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+    <string name="app_name">Skermrecorder</string>
+    <string name="share">Diele</string>
+    <string name="stop">Stopje</string>
+    <string name="insufficient_storage">Net genôch ûnthâld</string>
+    <string name="show_touches">Oanrekkingen toane</string>
+    <string name="hide_touches">Oanrekkingen ferstopje</string>
+    <string name="recording">Opnimme\u2026</string>
+    <string name="recording_ready_to_share">Opname ree om te dielen</string>
+    <string name="video_length">Fideolingte: %s</string>
+    <string name="not_enough_storage">Net genôch ûnthâld beskikber</string>
+    <string name="start_description">Tik om te begjinnen mei it opnimmen fan it skerm fan jo apparaat</string>
+    <string name="stop_description">Tik om mei opnimmen te stopjen</string>
+    <string name="with_audio">Lûd fan mikrofoan tafoegje</string>
+    <string name="no_audio_setting_warning">Om ek lûd op te nimmen, <b>tik hjir om nei Ynstellingen te gean en de app tastimming te jaan de mikrofoan te brûken</b></string>
+</resources>

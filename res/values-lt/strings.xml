@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources>
-  <string name="share">Bendrinti</string>
-  <string name="stop">Sustabdyti</string>
-  <string name="insufficient_storage">Nepakanka atminties</string>
-  <string name="show_touches">Rodyti lietimus</string>
-  <string name="recording">Įrašoma\u2026</string>
-  <string name="recording_ready_to_share">Įrašas paruoštas bendrinimui</string>
-  <string name="video_length">Vaizdo įrašo trukmė: %s</string>
-  <string name="not_enough_storage">Nepakanka atminties</string>
+    <string name="share">Bendrinti</string>
+    <string name="stop">Sustabdyti</string>
+    <string name="insufficient_storage">Nepakanka atminties</string>
+    <string name="show_touches">Rodyti lietimus</string>
+    <string name="recording">Įrašoma\u2026</string>
+    <string name="recording_ready_to_share">Įrašas paruoštas bendrinimui</string>
+    <string name="video_length">Vaizdo įrašo trukmė: %s</string>
+    <string name="not_enough_storage">Nepakanka atminties</string>
 </resources>

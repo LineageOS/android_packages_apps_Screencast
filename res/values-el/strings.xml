@@ -16,18 +16,18 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Εγγραφή οθόνης</string>
-  <string name="share">Κοινή χρήση</string>
-  <string name="stop">Διακοπή</string>
-  <string name="insufficient_storage">Μη επαρκής αποθηκευτικός χώρος</string>
-  <string name="show_touches">Εμφάνιση αγγιγμάτων</string>
-  <string name="hide_touches">Απόκρυψη αγγιγμάτων</string>
-  <string name="recording">Εγγραφή\u2026</string>
-  <string name="recording_ready_to_share">Η καταγραφή είναι έτοιμη για κοινή χρήση</string>
-  <string name="video_length">Μήκος βίντεο: %s</string>
-  <string name="not_enough_storage">Δεν υπάρχει αρκετός διαθέσιμος χώρος αποθήκευσης</string>
-  <string name="start_description">Πατήστε για να ξεκινήσει η εγγραφή της οθόνης</string>
-  <string name="stop_description">Πατήστε για διακοπή της εγγραφής</string>
-  <string name="with_audio">Να συμπεριλαμβάνεται ήχος από το μικρόφωνο</string>
-  <string name="no_audio_setting_warning">Για να συμπεριλάβετε ήχο, <b>μεταβείτε στις Ρυθμίσεις και ενεργοποιήσετε το δικαίωμα μικροφώνου για αυτή την εφαρμογή</b></string>
+    <string name="app_name">Εγγραφή οθόνης</string>
+    <string name="share">Κοινή χρήση</string>
+    <string name="stop">Διακοπή</string>
+    <string name="insufficient_storage">Μη επαρκής αποθηκευτικός χώρος</string>
+    <string name="show_touches">Εμφάνιση αγγιγμάτων</string>
+    <string name="hide_touches">Απόκρυψη αγγιγμάτων</string>
+    <string name="recording">Εγγραφή\u2026</string>
+    <string name="recording_ready_to_share">Η καταγραφή είναι έτοιμη για κοινή χρήση</string>
+    <string name="video_length">Μήκος βίντεο: %s</string>
+    <string name="not_enough_storage">Δεν υπάρχει αρκετός διαθέσιμος χώρος αποθήκευσης</string>
+    <string name="start_description">Πατήστε για να ξεκινήσει η εγγραφή της οθόνης</string>
+    <string name="stop_description">Πατήστε για διακοπή της εγγραφής</string>
+    <string name="with_audio">Να συμπεριλαμβάνεται ήχος από το μικρόφωνο</string>
+    <string name="no_audio_setting_warning">Για να συμπεριλάβετε ήχο, <b>μεταβείτε στις Ρυθμίσεις και ενεργοποιήσετε το δικαίωμα μικροφώνου για αυτή την εφαρμογή</b></string>
 </resources>

@@ -16,18 +16,18 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Skærmoptager</string>
-  <string name="share">Del</string>
-  <string name="stop">Stop</string>
-  <string name="insufficient_storage">Ikke nok lagerplads</string>
-  <string name="show_touches">Vis detaljer</string>
-  <string name="hide_touches">Skjul berøringer</string>
-  <string name="recording">Optager\u2026</string>
-  <string name="recording_ready_to_share">Optagelse klar til at blive delt</string>
-  <string name="video_length">Videolængde: %s</string>
-  <string name="not_enough_storage">Ikke nok lagerplads tilgængelig</string>
-  <string name="start_description">Tryk for at starte optagelsen af skærmen på din enhed</string>
-  <string name="stop_description">Tryk for at stoppe optagelsen</string>
-  <string name="with_audio">Inkluder lyd fra mikrofon</string>
-  <string name="no_audio_setting_warning">For at inkludere lyd, <b>tryk her for at gå til Indstillinger og aktivér mikrofontilladelsen til denne app</b></string>
+    <string name="app_name">Skærm-Optager</string>
+    <string name="share">Del</string>
+    <string name="stop">Stop</string>
+    <string name="insufficient_storage">Utilstrækkelig lagerplads</string>
+    <string name="show_touches">Vis berøringer</string>
+    <string name="hide_touches">Skjul berøringer</string>
+    <string name="recording">Optager\u2026</string>
+    <string name="recording_ready_to_share">Optagelse klar til deling</string>
+    <string name="video_length">Videolængde: %s</string>
+    <string name="not_enough_storage">Ikke nok lagerplads tilgængelig</string>
+    <string name="start_description">Tryk for at starte optagelse af din enheds skærm</string>
+    <string name="stop_description">Tryk for at stoppe optagelse</string>
+    <string name="with_audio">Inkludér lyd fra mikrofon</string>
+    <string name="no_audio_setting_warning"><b>Tryk her for at gå til Indstillinger, og aktivér mikrofon-tilladelsen for denne app</b>, for at inkludere lyd</string>
 </resources>
